@@ -1,0 +1,184 @@
+@charset "UTF-8";
+/*paleta de colores
+#494949
+#7C7A7A
+#FF5D73
+#FFFFFF
+#000000
+
+*/
+.logo {
+  width: 300px;
+  background-color: black;
+}
+
+body {
+  font-family: "Didact Gothic", sans-serif;
+}
+body html {
+  font-family: "Didact Gothic", sans-serif;
+  font-size: 65, 5%;
+}
+body h1 {
+  font-size: 3rem;
+  text-align: center;
+}
+body h2 {
+  font-size: 2rem;
+  font-style: italic;
+  text-align: center;
+}
+body h3 {
+  font-size: 1, 5rem;
+  text-align: center;
+}
+body p {
+  font-size: 2rem;
+  text-align: center;
+}
+
+/*header*/
+/*logo*/
+.logo {
+  width: 300px;
+  background-color: black;
+}
+
+.estiloLogo {
+  background-color: black;
+}
+
+.dropdown-item {
+  background-color: black;
+}
+
+.logo {
+  background-color: #FF5D73;
+}
+
+/*index*/
+.animate__animated.animate__lightSpeedInRight {
+  --animate-duration:6s;
+}
+
+/*titulosSecciones*/
+.tituloIndex {
+  background-color: #FF5D73;
+  font-size: 5rem;
+}
+
+/*main*/
+.imagenesContainer {
+  display: flex;
+  align-items: flex-start;
+  background-color: #7C7A7A;
+  border: 10px solid white;
+}
+.imagenesContainer h3 {
+  text-align: center;
+  text-decoration: solid;
+  color: #FFFFFF;
+}
+.imagenesContainer img {
+  height: 100%;
+  width: 100%;
+  flex-wrap: nowrap;
+  display: flex;
+  margin: auto;
+}
+
+/*sección promociones*/
+.promo {
+  width: 500px;
+  height: 500px;
+  justify-content: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-bottom: 60px;
+  margin-top: 60px;
+  margin: auto;
+}
+
+/*sección cumples*/
+.transicion {
+  text-align: justify;
+  font-size: larger;
+  transition: 4s;
+}
+
+.transicion:hover {
+  color: #494949;
+  font-size: medium;
+}
+
+.imagenCumple {
+  font-family: "Didact Gothic", sans-serif;
+  width: 110%;
+  height: 80%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.formularioCumple {
+  border-inline: center solid white;
+  margin-top: 100px;
+  text-align: justify;
+}
+
+/*seccion experiencias*/
+.carrouseltam {
+  width: 80%;
+  height: 80%;
+  orientation: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 100px;
+  margin-top: 100px;
+  margin: auto;
+}
+
+/*seccion contacto*/
+.formulario {
+  margin-bottom: 100px;
+  margin-top: 100px;
+}
+
+.boton-enviar {
+  margin-top: 20%;
+  margin-left: 20%;
+  align-items: center;
+}
+
+/*footer*/
+.parrafo h2 {
+  text-align: center;
+  color: white;
+  background-position: center;
+  background-color: #494949;
+  text-decoration-line: overline;
+  margin-top: 20% solid;
+}
+
+.comunicacion {
+  text-align: center;
+  background-position: center;
+  text-orientation: sideways-right;
+}
+
+.ub {
+  width: 100px;
+}
+
+.instagram {
+  width: 80px;
+}
+
+.logoFinal {
+  width: 100px;
+}
+
+/*# sourceMappingURL=estilos.css.map */

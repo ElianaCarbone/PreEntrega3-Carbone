@@ -1,0 +1,145 @@
+/*paleta de colores
+#ffbe0b
+#ff006e 
+#8338ec
+#3a86ff
+*/
+
+/*font-family: 'Didact Gothic', sans-serif;*/
+
+
+
+body{
+    font-family:'Didact Gothic', sans-serif;
+}
+
+html{
+    font-family:'Didact Gothic', sans-serif;
+    font-size: 65,5%;
+}
+
+h1{
+    font-size: 3rem;
+    text-align: center;
+}
+
+h2{
+    font-size: 2rem;
+
+    
+}
+
+h3{
+    font-size: 1,5rem;
+}
+
+.font-monospace p{
+font-size: 1,7rem;
+text-align: justify;
+
+}
+
+
+
+    
+    /*header*/
+
+
+header img{
+    width: 300px;
+
+}
+
+
+
+/*header- home*/
+
+.tituloIndex{
+
+    height: 80%;
+    background-color: #ffbe0b;
+    text-align: justify;
+    font-display: center;
+    letter-spacing: normal;
+    text-decoration:inherit;
+    font-family: 'Didact Gothic', sans-serif;
+    
+    
+    
+}
+/*main*/
+.imagenesContainer{
+
+    display: flex;
+    align-items: flex-start;
+    background-color: #3a86ff
+    
+    }
+
+.fotos img{
+    height: 100%;
+    width: 100%;
+    flex-wrap: nowrap;
+    display: flex;
+
+}
+
+.fotos h3{
+    text-align: center;
+    text-decoration:solid;
+}
+
+/*botón de envio*/
+.boton-envio{
+
+    align-items: center;
+    text-decoration: solid;
+    text-align: center;
+}
+
+
+
+
+
+/*footer*/
+
+.parrafo h2{
+    text-align: center;
+    color: white;
+    background-position: center;
+    background-color: #ff006e  ;
+    text-decoration-line: overline;
+}
+
+.comunicacion{
+    text-align: center;
+    background-position: center;
+    text-orientation: sideways-right;
+}
+.ub{
+    width: 100px;
+    
+}    
+.instagram{
+    width: 80px;
+}
+
+.logoFinal{
+
+    width: 100px;
+    
+
+}
+
+
+/*experiencias*/
+
+.carousel-inner{
+
+    width: 100%;
+    height: 100%;
+    
+    
+}
+
+
